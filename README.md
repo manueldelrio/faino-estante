@@ -1,2 +1,2 @@
-# faino-estante-fm
+# Faino. Estante FM
 DIWO shelving system
