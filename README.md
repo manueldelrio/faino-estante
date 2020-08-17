@@ -23,6 +23,8 @@ Assymmetric-U-section cross beams are system's cornerstone, contributing to a go
 
 The result is a visually clean shelf whether viewed from above or from below.
 
+![faino estante joint detail](https://github.com/manueldelrio/faino-estante/blob/develop/files/fainoestante_jointdetail.png)
+
 ## Do It With Others, or Distributed Manufacturing
 Keeping in mind digital manufacturing technologies during design process enables distributed manufacturing ecosystems.
 
