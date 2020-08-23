@@ -35,6 +35,8 @@ Three key roles are defined:
 * **Manufacturer** is a professional or organization with capacity to resolve one or more production processes involved in shelving system manufacturing.
 * **Designer** acts as a link between user and manufacturers. He has the responsability of adapt shelf design to user's needs and preferences while keep it suitable for available manufacturers' capabilities.
 
+List of designers and manufacturers available can be found in [DIWO.md](https://github.com/manueldelrio/faino-estante/blob/develop/DIWO.md).
+
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This project is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
