@@ -32,7 +32,7 @@ Unlike traditional manufacturing, where raw materials are transformed into stand
 
 Three key roles are defined: 
 * **User** must adopt an active role in shelf design, transmitting to the designer all critical information in order to ensure that the design meets her/his needs.
-* **Manufacturer** is a proffesional or organization with capacity to resolve one or more production processes involved in shelving system manufacturing.
+* **Manufacturer** is a professional or organization with capacity to resolve one or more production processes involved in shelving system manufacturing.
 * **Designer** acts as a link between user and manufacturers. He has the responsability of adapt shelf design to user's needs and preferences while keep it suitable for available manufacturers' capabilities.
 
 # License
