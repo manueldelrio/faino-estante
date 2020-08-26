@@ -1,0 +1,3 @@
+Full Faino Estante model is allocated in [Onshape's document](https://cad.onshape.com/documents/d7ff6031ddc7554d73ed1af8/w/cea366a2ab38cc04bef6ae4f/e/82c43c866d6ae67849fae132), but construction files for the entire system and spare parts are exported into this folder. Here 3D files in STEP format (which can be imported in most 3D CAD software) and 2D drawing files in PDF and DXF format (for most 2D CAD software) can be found.
+
+***Faino estante.step*** and ***Faino estante x.x.x - system.pdf/dxf*** files contain entire system (all parts and subassemblies). The rest of STEP files are single part files, while in 2d files parts are grouped by type of manufacturer (e.g. metalworks, carpentry...).
