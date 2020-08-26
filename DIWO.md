@@ -9,4 +9,9 @@ People and companies listed in following tables offer themselves as collaborator
 |----------------|---------|---------------------|----------|----------------------------|
 | | | | |
 
+# Standard parts suppliers
+| Name / Company | Contact | Part typologies | Location |
+|----------------|---------|---------------------|----------|
+| Essentra Components| https://www.essentracomponents.com/ | adjustable feet | worldwide |
+
 **People and/or companies listed above are not necessary trusted as designers and/or manufacturers.**
