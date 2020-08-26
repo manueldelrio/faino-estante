@@ -11,3 +11,24 @@ Onshape uses its own [Gitflow version management](https://learn.onshape.com/lear
 
 
 # changelog
+
+## 1.1.0 - 2020-08-26
+### Added
+* **Full modelled shelving system**. This version includes the following parts:
+    * side frames
+    * cross beams
+    * shelves
+    * wall fixations
+All parts are exported into 3D models in STEP format and 2D drawings in PDF and DXF format and stored into **files folder**.
+
+* DIWO.md, repository for designers, manufacturers and suppliers.
+* files/README.md, files folder explanation
+### Changed
+* README.md. Added full explanation and images.
+
+## 0.1.0 - 2020-07-10
+### Added
+- README.md. Brief description and link to shelving system Onshape document.
+- LICENSE.md
+- CHANGELOG.md
+- Files folder for exported models and drawings from Onshape document.
