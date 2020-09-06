@@ -7,15 +7,19 @@ Conceptually, the main visual weight of the system resides on the sides, attenti
 
 Another key design detail of the system is the absence of visible screws. The open U that shapes the cross beams allows access to the fixing screws, which are hidden once the shelf is supported.
 
-# Modelling
-For modelling [Onshape](https://www.onshape.com/) cloud-based parametric CAD system was selected. Despite it's a proprietary software, it has a full feature free license for non-commercial projects in an open-source public work space.
+# Modeling
+For modeling, [Onshape](https://www.onshape.com/) cloud-based parametric CAD system was selected. Despite it's a proprietary software, it has a full feature free license for non-commercial projects in an open-source public work space. Working in Onshape is pretty similar to other parametric CAD programs such as Solid Works, Solid Edge or Inventor, so adaptation is usually quick.
+
+In case you don't want to use Onshape, you have two options to adapt the design:
+1. Import the STEP files into the software you usually use and modify them
+2. Model from scratch from 2D drawings in PDF or DXF
 
 Onshape has implemented a version management system which is compatible with a [gitflow style version management](https://learn.onshape.com/learn/article/gitflow-version-management), so there is a version and history trail in Onshape document with the typical branches that can be found on a Git project: a **master branch** with versions, a **develop branch** where main parts were modelled (side frames, cross beams, shelves and wall fixtures) and where complements should be merged for testing, and several **feature branches** for every complement parts created for shelving system. **Hotfix branches** must be created where necessary.
 
 The entire system was modelled using [Master Model Workflow](https://learn.onshape.com/learn/article/master-model-workflows). This means:
 * All critical sketches and dimensions are in the same part studio (master sketches), wich are subsequently inserted into part studios for solid operations (beam, extrude...), so it's easy to identificate errors and/or dimension incoherences between parts.
 * Variables were set up for getting consistency. The same variables were defined into those part studios where necessary. Variables must have the same value on every part studio to avoid incoherences between parts.
-* In this master model a two-column and six-shelves configuration was used, resulting in a 2100mm high, 2475mm wide and 450mm deep. All STEP, DXF, etc files in file folder were exported from that configuration. In Onshape you can make a copy of the shelving system document and create any configuration by modifying modelling parameters, either by changing variables' values or merely by direct editing dimensions where there isn't variables (suchs as number of shelves or first shelf height) 
+* In this master model a two-column and six-shelves configuration was used, resulting in a 2100mm high, 2475mm wide and 450mm deep. All STEP, DXF, etc files in file folder were exported from that configuration. In Onshape you can make a copy of the shelving system document and create any configuration by modifying modeling parameters, either by changing variables' values or merely by direct editing dimensions where there isn't variables (suchs as number of shelves or first shelf height) 
 
 
 ## Side frames
@@ -29,7 +33,7 @@ For shelving configurations where its height were over 800-1000mm is highly reco
 There are several trims on back cross beam. Their function is to serve as fixation point for cable management by means of strips or elastic cords. If you don't want them, simply suppress all features involved.
 
 ## Shelves
-In shelves 16mm thick wood board were took into account. A simple extrusion was enough for modelling them. The stepped profile of the bottom allows perfect fit of the shelves between the wings of the cross beams. A tolerance of 0,5mm on vertical surfaces of the fitting was set up.
+In shelves 16mm thick wood board were took into account. A simple extrusion was enough for modeling them. The stepped profile of the bottom allows perfect fit of the shelves between the wings of the cross beams. A tolerance of 0,5mm on vertical surfaces of the fitting was set up.
 
 ## Wall fixation
 When overall height of shelving system were over 800-1000mm wall fixations should de installed. In side frames' part studio a hole in the back side was sketched, it serves as fixing point for wall fixation: the wider part of the hole allows to insert wall fixation's plate, and the narrower serves height adjusting.
