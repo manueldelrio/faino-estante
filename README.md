@@ -39,6 +39,14 @@ Three key roles are defined:
 
 List of designers and manufacturers available can be found in [DIWO.md](https://github.com/manueldelrio/faino-estante/blob/develop/DIWO.md).
 
+# Contributing
+Faino is a non-profit project, born from the determination to share knowledge that may be useful to others. You can contribute to this project in several ways:
+- Fork the repository and develop to a new full version or to merge into this project.
+- Make a copy of the Onshape document and design accessories for the current version of Faino. If you want, they can be studied and later included in the root Faino document
+- Propose yourself as a designer or producer to appear on the list of partners, so users interested in making a shelf can contact you. Obviously, design and manufacturing work must be remunerated, but that already belongs to a client-professional relationship outside of Faino.
+
+If you have questions, want to know more about the project or simply want to talk, you can write to fainodiwo@gmail.com .
+
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This project is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
