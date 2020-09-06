@@ -25,19 +25,19 @@ The result is a visually clean shelf whether viewed from above or from below.
 
 ![faino estante joint detail](https://github.com/manueldelrio/faino-estante/blob/develop/files/fainoestante_jointdetail.png)
 
-Further information about design, modelling and manufacturing issues can be found in [DESIGN.md](https://github.com/manueldelrio/faino-estante/blob/develop/DESIGN.md).
+Further information about design, modelling and manufacturing issues can be found in [DESIGN](https://github.com/manueldelrio/faino-estante/blob/develop/DESIGN.md).
 
 ## Do It With Others, or Distributed Manufacturing
 Keeping in mind digital manufacturing technologies during design process enables distributed manufacturing ecosystems.
 
-Unlike traditional manufacturing, where raw materials are transformed into standarized products in centralized factories and distributed to customers, distributed manufacturing focus on customized single-unit on-demand products, manufactured according to user needs and preferences. Production is distributed into a network of factories, workshops and craftmans working in closely communication with final user.
+Unlike traditional manufacturing, where raw materials are transformed into standarized products in centralized factories and distributed to customers, distributed manufacturing focus on customized single-unit on-demand products, manufactured according to user needs and preferences. Production is distributed into a network of factories, workshops and craftmans working in closely communication with final user. Producing under this ecosystem reinforces local production and reduces footprint.
 
 Three key roles are defined: 
 * **User** must adopt an active role in shelf design, transmitting to the designer all critical information in order to ensure that the design meets her/his needs.
 * **Manufacturer** is a professional or organization with capacity to resolve one or more production processes involved in shelving system manufacturing.
 * **Designer** acts as a link between user and manufacturers. He has the responsability of adapt shelf design to user's needs and preferences while keep it suitable for available manufacturers' capabilities.
 
-List of designers and manufacturers available can be found in [DIWO.md](https://github.com/manueldelrio/faino-estante/blob/develop/DIWO.md).
+List of designers and manufacturers available can be found in [DIWO](https://github.com/manueldelrio/faino-estante/blob/develop/DIWO.md).
 
 # Contributing
 Faino is a non-profit project, born from the determination to share knowledge that may be useful to others. You can contribute to this project in several ways:
