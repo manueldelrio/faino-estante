@@ -25,6 +25,8 @@ The result is a visually clean shelf whether viewed from above or from below.
 
 ![faino estante joint detail](https://github.com/manueldelrio/faino-estante/blob/develop/files/fainoestante_jointdetail.png)
 
+Further information about design, modelling and manufacturing issues can be found in [DESIGN.md](https://github.com/manueldelrio/faino-estante/blob/develop/DESIGN.md).
+
 ## Do It With Others, or Distributed Manufacturing
 Keeping in mind digital manufacturing technologies during design process enables distributed manufacturing ecosystems.
 
