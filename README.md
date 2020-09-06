@@ -30,7 +30,7 @@ Further information about design, modelling and manufacturing issues can be foun
 ## Do It With Others, or Distributed Manufacturing
 Keeping in mind digital manufacturing technologies during design process enables distributed manufacturing ecosystems.
 
-The advent and popularization of digital manufacturing technologies enabled new ways of goods production and consumption. Unlike traditional manufacturing, where raw materials are transformed into standarized products in centralized factories and distributed to customers, distributed manufacturing focus on customized single-unit on-demand products, manufactured according to user needs and preferences. Production is distributed into a network of factories, workshops and craftmans working in closely communication with final user. Producing under this ecosystem reinforces local production and reduces footprint.
+The advent and popularization of digital manufacturing technologies enabled new ways of goods production and consumption. Unlike traditional manufacturing, where raw materials are transformed into standarized products in centralized factories and distributed to customers, distributed manufacturing focus on customized single-unit on-demand products, manufactured according to user needs and preferences. Production is distributed into a network of factories, workshops and craftmen working in closely communication with final user. Producing under this ecosystem reinforces local production and reduces footprint.
 
 Three key roles are defined: 
 * **User** must adopt an active role in shelf design, transmitting to the designer all critical information in order to ensure that the design meets her/his needs.
