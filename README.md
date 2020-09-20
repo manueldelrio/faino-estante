@@ -8,6 +8,9 @@ The core of this shelving system consists of **side frames** in welded square st
 
 The design is published under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License** and is modeled parametrically on open access **[document hosted on the Onshape platform](https://cad.onshape.com/documents/d7ff6031ddc7554d73ed1af8/w/cea366a2ab38cc04bef6ae4f/e/82c43c866d6ae67849fae132)**. This means that anyone can access them, make a copy and adapt the design to their needs and the means of production available: change the dimensions to suit their requirements, remove or add components and change the design to adapt the manufacture to other materials or production processes. Onshape document is a work-in-progress file, but exported 3d parts and 2D drawing files are stored into **files** folder.
 
+Faino Estante Latest version is [1.1.0-release](https://github.com/manueldelrio/faino-estante/releases/tag/1.1.0-release). Older versions can be seen in [changelog](changelog.md).
+
+
 ## Design
 
 The core of the system follows three main premises:
@@ -36,6 +39,8 @@ Three key roles are defined:
 * **User** must adopt an active role in shelf design, transmitting to the designer all critical information in order to ensure that the design meets her/his needs.
 * **Manufacturer** is a professional or organization with capacity to resolve one or more production processes involved in shelving system manufacturing.
 * **Designer** acts as a link between user and manufacturers. He has the responsability of adapt shelf design to user's needs and preferences while keep it suitable for available manufacturers' capabilities.
+
+It's intended to establish a new relationship between users, designers and producers through the act of design and production, while promoting local manufacturing: Users can access to furniture adapted to their needs, not only that one the market offers them, while developing a more active and conscious culture of consumption. Designers (novices especially) can actively develop knowledge and expertise in real cases while receiving an economic return. And manufacturers diversify their client portfolio by manufacturing designs that led low load in technical department development.
 
 List of designers and manufacturers available can be found in [DIWO](https://github.com/manueldelrio/faino-estante/blob/develop/DIWO.md).
 
