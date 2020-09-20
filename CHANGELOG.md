@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file. The format 
 
 * Addition of new accesories (containers, drawers...) may be reflected in **minor versions**.
 
-* **Patch versions** are suitable for modelling issues and changes in drawings.
+* **Patch versions** are suitable for modelling issues and changes in drawings, and for added/changed content on .md files.
 
 Onshape uses its own [Gitflow version management](https://learn.onshape.com/learn/article/gitflow-version-management). In Faino Estante Onshape Document, there are two main branches: master and develop. New features must be created into new branches and merge them into develop branch to test its compatibility before merge all into master. In Github feature branches should not be expected so all changes should be made directly into develop branch (it is expected that changes only concern to exported 2D and 3D files from Onshape and to .md files).
 
