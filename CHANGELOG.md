@@ -12,6 +12,14 @@ Onshape uses its own [Gitflow version management](https://learn.onshape.com/lear
 
 # changelog
 
+## 1.1.1 - 2020-09-20
+### Added
+* DESIGN.md. Explanation of design, modeling and manufacturing questions and issues.
+
+### Changed
+* README.md. Added Contributing and content in all headers.
+* DIWO.md. Added explanation and content to Partners' tables.
+
 ## 1.1.0-release - 2020-08-26
 ### Added
 * **Full modelled shelving system**. This version includes the following parts:
